@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[第一篇博客]]></title>
     <url>%2F2018%2F08%2F29%2F%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%2F</url>
-    <content type="text"><![CDATA[javajava的三大平台： 1982年，sun公司发布了基于java的三大平台技术标准：J2SE，J2EE，J2ME,2005年开始改名为JavaSE,JavaEE,JavaWE。 JavaSE:java标准平台，允许开发部署在桌面，服务器，嵌入式环境和实时环境中使用的java程序，如做一个桌面版的QQ，JavaSE能为JavaEE和JavaWE开发提供基础。 JavaSE:ava企业平台，可帮助开发和部署可移植、健壮、可伸缩且安全的服务器端的java应用程序，如企业的应用系统ERP等。JavaEE是在JavaSE的基础上构建的，它提供web服务、组件模型、管理和通信API，可以用来实现企业级的面向服务体系结构(SOA)和web等应用程序。 * JavaWeb开发平台是在JavaEE平台下的 JavaWE:java微型平台，用来开发移动设备和嵌入式设备（比如手机、PDA、电视机顶盒盒打印机等），但随着Android的迅猛发展，JavaME现在使用的越来越少。 java语言的特性: 简单，面向对象，安全，跨平台，多线程，健壮，分布式等。]]></content>
+    <content type="text"><![CDATA[javajava的三大平台： 1982年，sun公司发布了基于java的三大平台技术标准：J2SE，J2EE，J2ME,2005年开始改名为JavaSE,JavaEE,JavaWE。 1&lt;!--more--&gt; JavaSE:java标准平台，允许开发部署在桌面，服务器，嵌入式环境和实时环境中使用的java程序，如做一个桌面版的QQ，JavaSE能为JavaEE和JavaWE开发提供基础。 JavaSE:ava企业平台，可帮助开发和部署可移植、健壮、可伸缩且安全的服务器端的java应用程序，如企业的应用系统ERP等。JavaEE是在JavaSE的基础上构建的，它提供web服务、组件模型、管理和通信API，可以用来实现企业级的面向服务体系结构(SOA)和web等应用程序。 * JavaWeb开发平台是在JavaEE平台下的 JavaWE:java微型平台，用来开发移动设备和嵌入式设备（比如手机、PDA、电视机顶盒盒打印机等），但随着Android的迅猛发展，JavaME现在使用的越来越少。 java语言的特性: 简单，面向对象，安全，跨平台，多线程，健壮，分布式等。]]></content>
       <categories>
         <category>Java</category>
       </categories>
