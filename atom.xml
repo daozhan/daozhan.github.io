@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-08-30T13:14:03.689Z</updated>
+  <updated>2018-08-31T11:47:56.435Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,11 +21,11 @@
     <link href="http://yoursite.com/2018/08/29/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
     <id>http://yoursite.com/2018/08/29/第一篇博客/</id>
     <published>2018-08-28T16:03:27.000Z</published>
-    <updated>2018-08-30T13:14:03.689Z</updated>
+    <updated>2018-08-31T11:47:56.435Z</updated>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;java&quot;&gt;&lt;a href=&quot;#java&quot; class=&quot;headerlink&quot; title=&quot;java&quot;&gt;&lt;/a&gt;java&lt;/h1&gt;&lt;h3 id=&quot;java的三大平台：&quot;&gt;&lt;a href=&quot;#java的三大平台：&quot; class=&quot;headerlink&quot; title=&quot;java的三大平台：&quot;&gt;&lt;/a&gt;java的三大平台：&lt;/h3&gt;&lt;blockquote&gt;
+      &lt;h1 id=&quot;java&quot;&gt;&lt;a href=&quot;#java&quot; class=&quot;headerlink&quot; title=&quot;java&quot;&gt;&lt;/a&gt;java&lt;/h1&gt;&lt;h2 id=&quot;java的三大平台：&quot;&gt;&lt;a href=&quot;#java的三大平台：&quot; class=&quot;headerlink&quot; title=&quot;java的三大平台：&quot;&gt;&lt;/a&gt;java的三大平台：&lt;/h2&gt;&lt;blockquote&gt;
 &lt;p&gt;1982年，sun公司发布了基于java的三大平台技术标准：J2SE，J2EE，J2ME,2005年开始改名为JavaSE,JavaEE,JavaWE。&lt;/p&gt;
 &lt;/blockquote&gt;
     
